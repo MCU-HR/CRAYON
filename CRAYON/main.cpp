@@ -1,14 +1,17 @@
 //
+//
 //  main.cpp
 //  CRAYON
 //
-//  Created by HR CRAYON on 2026/5/6.
+//  Created by HR CRAYON on 2026/4/7.
 //
 
 #include <iostream>
+using namespace std;
 
-int main(int argc, const char * argv[]) {
+int main() {
     // insert code here...
-    std::cout << "Hello, World!\n";
-    return EXIT_SUCCESS;
+    cout << "Hello, World!\n";
+    cout << "hello";
+    return 0;
 }
